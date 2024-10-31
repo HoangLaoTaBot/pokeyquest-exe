@@ -1,0 +1,17 @@
+{
+    "AUTO_UPGRADE_LEVEL": true,
+    "VALUE_UPGRADE_LEVEL": 15,
+    "AUTO_UPGRADE_CARD": true,
+
+    "AUTO_GET_NEW_QUERY_ID": false,
+    "AUTO_WRITE_ERROR": true,
+    "AUTO_SEND_ERROR_TELEGRAM": false,
+    "AUTO_STOP_PROCESS": false,
+    "IS_CHECK_QUERY_ID": false,
+    "NUMBER_TRY_REQUEST": 3,
+    "THREAD": 10,
+    "IS_SLEEP": 120,
+    "BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_NAME_GAME": "Poke Quest"
+}
